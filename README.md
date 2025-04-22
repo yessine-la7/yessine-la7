@@ -2,9 +2,11 @@
 
 ## 🚀 Projects
 
+- 👁️ [Human action recognition](https://github.com/yessine-la7/human-action-recognition.git)
+
 ## 🛠️ Tools & Skills
 
-`Python` `PyTorch` `Numpy` `Pandas` `Serial` `Matlab`
+`Python` `PyTorch` `Numpy` `Pandas` `Serial`
 
 ## 📫 Contact
 
